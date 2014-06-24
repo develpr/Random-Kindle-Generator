@@ -1,0 +1,5 @@
+{
+	"require":{
+		"develpr/phindle": "dev-dev"
+	}
+}
